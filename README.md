@@ -2,6 +2,8 @@
 
 ## Visão Geral
 
+Grupo: Saulo Rodrigues Brilhante e Daniel Victor 
+
 Este projeto implementa um **Algoritmo Genético (AG)** completo utilizando **TypeScript** e **Node.js** para resolver um problema clássico de otimização contínua.
 
 O objetivo é **maximizar** o valor da função $f(x)$ no espaço de busca $x \in [0, 100]$. O algoritmo simula a **seleção natural** para encontrar a solução de maior aptidão (fitness) ao longo de gerações.
